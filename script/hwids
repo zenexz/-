@@ -38,9 +38,6 @@ return {
     ["6d7c9f5a-43b2-464f-abe0-6cedc71ee9f9"] = "$ 38",--19
     ["9bd6c340-9b03-4d5f-85cd-a109ce58de91"] = "$ 39", -- 20
     ["de6d20a8-fdb5-4bc9-947d-6b4ce76883bb"] = "$ 40", -- 21
-    -- old hwids ^^^ decoded and fucking hard to add someone's
-    -- new hwids vvv incoded / decoded in swimhub execution
-    -- just put the key ok?
     ["vo66209a-0622-4v04-8621-f31043r17af4"] = "dev",
     ["1a08va43-507a-47o5-ra91-a87f477oaorv"] = "$ 41",
     ["9968f6rr-583r-4l65-l8o5-a6929rr74f21"] = "$ 42",
